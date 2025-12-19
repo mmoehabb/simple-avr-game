@@ -1,4 +1,4 @@
-A simple game developed for Arduino Nano and a TFT LCD screen.
+A simple game developed for Arduino Nano and TFT LCD screen.
 
 ## Build and Flash
 
